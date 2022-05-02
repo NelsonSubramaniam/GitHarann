@@ -8,5 +8,7 @@ public class GitHarann1 {
 		int b=200;
 		
 		System.out.println("Harann Program");
+		
+		System.out.println("2nd line added");
 	}
 }
